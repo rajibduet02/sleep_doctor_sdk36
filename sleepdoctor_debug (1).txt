@@ -1,0 +1,54 @@
+2026-01-16T10:27:47.582404 [I]  DebugLogger initialized
+2026-01-16T10:27:47.638748 [I] [AppLifecycleManager] BLE_INFO: App lifecycle manager initialized
+2026-01-16T10:27:51.365347 [D] [DatabaseHelper] BLE_DEBUG: Read 0 records from database
+2026-01-16T10:27:52.945663 [D] [SleepDoctorDataConnector] BLE_DEBUG: Scanning state changed: false
+2026-01-16T10:27:53.030920 [I] [SleepDoctorDataConnector] BLE_INFO: BLE_STATE_CHANGED: Bluetooth adapter state changed to: ON
+2026-01-16T10:27:53.878644 [W] [SyncScreen] BLE_WARNING: BLE_PERMISSION_CHECK_FAILED: Missing permissions: SCAN=PermissionStatus.denied, CONNECT=PermissionStatus.denied
+2026-01-16T10:27:55.502489 [I] [AppLifecycleManager] BLE_INFO: App lifecycle changed: AppLifecycleState.inactive -> AppLifecycleState.resumed
+2026-01-16T10:27:55.696931 [I] [SyncScreen] BLE_INFO: BLE_PERMISSION_REQUEST_RESULT: Permission request results - SCAN: PermissionStatus.granted, CONNECT: PermissionStatus.granted
+2026-01-16T10:27:55.761608 [I] [AppLifecycleManager] BLE_INFO: App lifecycle changed: AppLifecycleState.inactive -> AppLifecycleState.resumed
+2026-01-16T10:27:55.822443 [I] [ForegroundServiceController] BLE_INFO: Foreground service started successfully
+2026-01-16T10:27:55.897420 [I] [BluetoothConnector] BLE_INFO: BLE_PERMISSION_CHECK: Checking permissions for scan - SCAN: PermissionStatus.granted, CONNECT: PermissionStatus.granted
+2026-01-16T10:27:56.106049 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:56.138081 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:56.596490 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:56.628015 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:56.662751 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:56.793903 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:57.026939 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:57.041385 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:57.050087 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:57.144184 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:59.799699 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:27:59.853354 [I] [BluetoothConnector] BLE_INFO: BLE_SCAN_STOPPED: Scanning stopped
+2026-01-16T10:28:00.544183 [I] [SleepDoctorDataConnector] BLE_INFO: BLE_GATT_STATE_CHANGED: Connection state changed to: CONNECTED
+2026-01-16T10:28:01.641268 [I] [BluetoothConnector] BLE_INFO: BLE_GATT_CONNECTED: Successfully connected to device
+2026-01-16T10:28:02.074537 [I] [BluetoothConnector] BLE_INFO: BLE_MTU_RESULT: MTU set to 23
+2026-01-16T10:28:02.092940 [I] [BluetoothConnector] BLE_INFO: BLE_PERMISSION_CHECK: Checking permissions for discover - SCAN: PermissionStatus.granted, CONNECT: PermissionStatus.granted
+2026-01-16T10:28:02.142655 [I] [BluetoothConnector] BLE_INFO: BLE_SERVICE_DISCOVERY_PROGRESS: Found 4 services
+2026-01-16T10:28:02.199510 [I] [SleepDoctorDataConnector] BLE_INFO: BLE_GATT_STATE_CHANGED: Connection state changed to: DISCONNECTED
+2026-01-16T10:28:02.703866 [I] [BluetoothConnector] BLE_INFO: BLE_GATT_DISCONNECTED: Device disconnected
+2026-01-16T10:28:04.247462 [I] [AppLifecycleManager] BLE_INFO: App lifecycle manager disposed
+2026-01-16T10:28:04.258120 [D] [DatabaseHelper] BLE_DEBUG: Read 0 records from database
+2026-01-16T10:28:05.646883 [D] [SleepDoctorDataConnector] BLE_DEBUG: Scanning state changed: false
+2026-01-16T10:28:06.376798 [I] [SyncScreen] BLE_INFO: BLE_PERMISSION_CHECK_PASSED: Permissions granted: SCAN=PermissionStatus.granted, CONNECT=PermissionStatus.granted
+2026-01-16T10:28:06.406129 [W] [BatteryOptimizationHandler] BLE_WARNING: Battery optimization exemption denied - sync may be interrupted
+2026-01-16T10:28:06.940858 [I] [BluetoothConnector] BLE_INFO: BLE_GATT_DISCONNECTED: Device disconnected
+2026-01-16T10:28:06.960448 [I] [BluetoothConnector] BLE_INFO: BLE_SCAN_STARTED: Scan initiated successfully
+2026-01-16T10:28:07.041211 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:28:07.063048 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:28:07.581798 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:28:07.623369 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:28:07.776991 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:28:07.789762 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:28:07.891350 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:28:08.538458 [D] [BluetoothConnector] BLE_DEBUG: Skipping device with empty name
+2026-01-16T10:28:08.570162 [I] [BluetoothConnector] BLE_INFO: BLE_PERMISSION_CHECK: Checking permissions for connect - SCAN: PermissionStatus.granted, CONNECT: PermissionStatus.granted
+2026-01-16T10:28:09.157040 [I] [SleepDoctorDataConnector] BLE_INFO: BLE_GATT_STATE_CHANGED: Connection state changed to: CONNECTED
+2026-01-16T10:28:10.263036 [I] [BluetoothConnector] BLE_INFO: BLE_GATT_CONNECTED: Successfully connected to device
+2026-01-16T10:28:10.714513 [I] [BluetoothConnector] BLE_INFO: BLE_MTU_RESULT: MTU set to 23
+2026-01-16T10:28:10.726888 [I] [BluetoothConnector] BLE_INFO: BLE_PERMISSION_CHECK: Checking permissions for discover - SCAN: PermissionStatus.granted, CONNECT: PermissionStatus.granted
+2026-01-16T10:28:10.743465 [I] [BluetoothConnector] BLE_INFO: BLE_SERVICE_DISCOVERY_PROGRESS: Found 4 services
+2026-01-16T10:28:10.771749 [I] [SleepDoctorDataConnector] BLE_INFO: BLE_GATT_STATE_CHANGED: Connection state changed to: DISCONNECTED
+2026-01-16T10:28:11.274167 [I] [BluetoothConnector] BLE_INFO: BLE_GATT_DISCONNECTED: Device disconnected
+2026-01-16T10:28:29.382611 [I] [AppLifecycleManager] BLE_INFO: App lifecycle manager disposed

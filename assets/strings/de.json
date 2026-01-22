@@ -1,0 +1,16 @@
+{
+  "agreement_long" : "Die Einverständniserklärung wird nur benötigt, wenn Sie Daten zur Verbesserung der App einsenden möchten.",
+  "agreement_text" : "Ich bin damit einverstanden, dass zur Verbesserung der technischen Funktion die durch den SleepDoctor oder die SleepDoctor-App erstellten Daten, also Daten über mein Schlafverhalten, an die Verantwortliche -die Iptasys GmbH- übertragen werden und diese die Daten verarbeitet, wozu auch die Löschung der Daten gehören kann.\\n\\nDie Einwilligung erfolgt auf freiwilliger Basis und ist nicht notwendig um den SleepDoctor oder die SleepDoctor-App nutzen zu können. Sie können die Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Ab Zugang der Widerrufserklärung dürfen Ihre Daten nicht weiterverarbeitet werden. Sie sind unverzüglich zu löschen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.\\n\\nSie haben das Recht zur Löschung, Sperrung, Berichtigung und Übertragung der Daten, sowie auf Auskunft über die Datenverarbeitung. Außerdem können Sie sich bei der zuständigen Aufsichtsbehörde beschweren. Wir verweisen für weitere Erläuterungen auf unsere Datenschutzerklärung, abrufbar unter www.sleepdoctor.de",
+  "database" : "Datenbank",
+  "clear_database" : "Alle Daten in Datenbank löschen",
+  "clear_database_question" : "Sind Sie sicher, dass alle Daten in der Datenbank gelöscht werden sollen?",
+  "clear_sleepdoctor" : "Daten auf SleepDoctor löschen",
+  "send_database" : "Alle Daten versenden",
+  "send_database_long" : "Alle gespeicherten Daten an die Entwickler zur Auswertung schicken",
+  "send_database_question" : "Diese Funktion ist noch nicht implementiert.",
+  "settings_privacy" : "Datenschutz",
+  "agreement" : "Einverständniserklärung",
+  "agree" : "Einverstanden",
+  "not_agree" : "Nein",
+  "cancel" : "Abbrechen"
+}
